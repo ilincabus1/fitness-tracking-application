@@ -1,4 +1,4 @@
-***<h2>Fitness Tracking API</h2>***
+***<h2>Fitness Tracking Application</h2>***
 
 This is the backend service for a personal fitness and health tracking application. It is built using Spring Boot and Spring Data JPA to manage complex, related entities including polymorphic workouts, user-defined goals, and health metrics (nutrition, sleep and heart rate), as well as billing management.
 
@@ -14,7 +14,7 @@ cd fitness-tracking-application
 
 Update the src/main/resources/application.properties (or application.yml) file with your database credentials and connection details:
 
-spring.datasource.url=jdbc:postgresql://**localhost:5432/fitness**
+spring.datasource.url=jdbc:postgresql://**localhost:5432**/***fitness***
 
 spring.datasource.username=dbuser
 
