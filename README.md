@@ -6,7 +6,7 @@ This is the backend service for a personal fitness and health tracking applicati
 
 **1. Clone the repository:**
 
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/ilincabus1/fitness-tracking-application.git
 
 cd fitness-tracking-application
 
